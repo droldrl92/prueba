@@ -1,6 +1,6 @@
 {
   "name": "mistabs",
-  "app_id": "",
+  "app_id": "19ac76ba",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
